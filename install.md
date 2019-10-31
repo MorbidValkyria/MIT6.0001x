@@ -11,6 +11,10 @@ Anaconda is not an IDE but a set of tools/packages meant for Data Science, Machi
 Spyder is an IDE (Integrated Development Environment) for Python. Main tool we use in the class.
 
 ## Downloading Anaconda:
+Go to the [Anaconda main site](https://www.anaconda.com/distribution/ "Anaconda distribution"):
+![alt text][Anaconda logo]
+
+[Anaconda logo]: https://www.anaconda.com/wp-content/uploads/2018/06/cropped-Anaconda_horizontal_RGB-1-600x102.png
 
 ### Linux:
 
