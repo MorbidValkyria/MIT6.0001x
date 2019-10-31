@@ -46,6 +46,14 @@ Open a terminal window and type:
 ```
 Unless you know what you're doing install on the *default install location* and once it asks you: “Do you wish the installer to initialize Anaconda3 by running conda init?” type "yes".
 Restart the shell and type:
+
+```shell
+conda --ver
+```
+
+This should display the current version of the Anaconda distribution, if done correctly, you should see something like ```conda 4.7.11``
+
+After try to launch Spyder, open your terminal and type:
 ```shell
 spyder
 
