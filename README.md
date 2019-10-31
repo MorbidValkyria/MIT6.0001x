@@ -5,9 +5,9 @@ and course content, may also include extra practice problems/excersies and
 tutorials.
 
 ## Index
--[Install Course Software](install.md "How to install course Software")
--[Week 1](Week1/ "Week 1 content")
--[Week 2](Week2/ "Week 2 content")
+1. [Install Course Software](install.md "How to install course Software")
+2. [Week 1](Week1/ "Week 1 content")
+3. [Week 2](Week2/ "Week 2 content")
 
 
 
