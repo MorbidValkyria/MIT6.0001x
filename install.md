@@ -51,7 +51,7 @@ Restart the shell and type:
 conda --ver
 ```
 
-This should display the current version of the Anaconda distribution, if done correctly, you should see something like ```conda 4.7.11``
+This should display the current version of the Anaconda distribution, if done correctly, you should see something like ```conda 4.7.11```
 
 After try to launch Spyder, open your terminal and type:
 ```shell
@@ -64,6 +64,12 @@ If you see the Spyder IDE, everything installed correctly.
 
 
 ### Windows:
+
+### ChromeOS
+
+Althought the Anaconda distribution is not available on ChromeOS or Chromium, I will place a few ways to get around and get you going.
+
+
 
 
 

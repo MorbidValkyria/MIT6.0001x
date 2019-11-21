@@ -12,11 +12,10 @@ numGuesses = 0
 low = min(x, 0.0)  ## Part we fixed 
 high = max(1.0, x)
 ans = (high + low)/2.0
-x = abs(x)
 while abs(ans**2 - x) >= epsilon:
     print('low =', low, 'high =', high, 'ans =', ans)
     numGuesses += 1
-    if ans**2 < x:
+    if ans**2 < abs(x):
         low = ans
     else:
         high = ans
